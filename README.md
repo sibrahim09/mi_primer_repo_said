@@ -1,19 +1,16 @@
-# El repo del civil who doesn't know what he does with his life (traductor)
+# El repo del civil 
 
 <p>
-Bienvenidos a
-MK (Michael Kors)
-  
-ola, en este increible repositorio veras como tarde 30 minutos en descubrir como ejecutar el comando en el interprete de python (fake)
+ola, aqui el reto 2 (me costo media hora descubrir como usar los comandos para el repo T-T)
 </p>
 
 ``` 
 if __name__ == "__main__" : 
     print("Hola mundo")
 ```
-<b> "si ya hiciste tu primer hola mundo, presumelo" </b> *frases que el profe nunca dijo.com*
 
-Aqui my job ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+Aqui my job ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ Aparte de construir puentes, ya sé como construir mi repo. excelente muchachos estamos avanzando.
 
 #### <B>VS CODE</B>
 - [![image.png](https://i.postimg.cc/jStVzt50/image.png)](https://postimg.cc/Yhny7cYb)
